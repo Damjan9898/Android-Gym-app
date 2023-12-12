@@ -18,7 +18,7 @@ To run this app, simply open it in Android Studio and execute the run command. T
 
 ## Screenshots of main parts of the Web Application
 
-<h3>1) Login Page</h3>
+<h3>1) Sign Up Page</h3>
 
   ![fp_1](https://github.com/Damjan9898/Android-Gym-app/assets/73915350/e112106a-29d2-4ed3-81fe-5f181e254f6a)
 
